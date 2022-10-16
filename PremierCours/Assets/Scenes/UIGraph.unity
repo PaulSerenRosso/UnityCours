@@ -1443,11 +1443,11 @@ MonoBehaviour:
   tris: 
   minGrassScale: {x: 0.05, y: 0.1}
   maxGrassScale: {x: 0.1, y: 0.2}
-  brushSize: 0
+  brushSize: 0.1
   randomDirection: {x: 1, y: 0.5}
   grassMinMaxCount:
-    x: 0
-    y: 0
+    x: 3
+    y: 4
 --- !u!4 &1075125613
 Transform:
   m_ObjectHideFlags: 0
