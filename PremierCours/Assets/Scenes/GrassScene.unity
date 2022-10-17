@@ -1440,6 +1440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   meshFilter: {fileID: 1075125615}
   verts: []
+  colorVerts: []
   tris: 
   minGrassScale: {x: 0.05, y: 0.1}
   maxGrassScale: {x: 0.1, y: 0.2}

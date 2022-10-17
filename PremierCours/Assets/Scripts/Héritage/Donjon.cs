@@ -8,6 +8,7 @@ public class Donjon : MonoBehaviour, IUpdatable
 {
     // as use for reference and can be null ne renvoie pas d'erreur
     // (type) error
+    // le point d'ancre pour l'ui cela correspond à la distance qui doit etre maintenant entre le point d'ancrache est l'objet
     private void Start()
     {
         UpdateManager.Register(this);
